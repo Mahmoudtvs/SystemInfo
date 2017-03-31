@@ -1,0 +1,9 @@
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\bin\Debug\SystemInformation.exe.config
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\bin\Debug\SystemInformation.exe
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\bin\Debug\SystemInformation.pdb
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\obj\Debug\SystemInformation.csprojResolveAssemblyReference.cache
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\obj\Debug\SystemInformation.Form1.resources
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\obj\Debug\SystemInformation.Properties.Resources.resources
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\obj\Debug\SystemInformation.csproj.GenerateResource.Cache
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\obj\Debug\SystemInformation.exe
+c:\users\joker\documents\visual studio 2013\Projects\SystemInformation\SystemInformation\obj\Debug\SystemInformation.pdb
